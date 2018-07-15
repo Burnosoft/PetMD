@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name"></string>
+    <string name="ingresar">Ingresar</string>
+    <string name="empresa">Burnosoft 2018</string>
+    <string name="email">Usuario o e-mail</string>
+    <string name="pass">Contraseña</string>
+</resources>
